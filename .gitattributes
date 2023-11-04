@@ -1,0 +1,5 @@
+*.ipynb linguist-language=Jupyter Notebook
+*.py linguist-language=Python
+*.md linguist-language=Markdown
+*.pdf linguist-language=Text
+*.csv linguist-language=Data
